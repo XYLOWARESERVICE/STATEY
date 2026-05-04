@@ -1,6 +1,6 @@
 local a=game:GetService'Players'local b=game:GetService'ReplicatedStorage'local
 c=game:GetService'RunService'local d=game:GetService'UserInputService'local e=
-game:GetService'Workspace'local f=false local g=true local h=false local i=200
+game:GetService'Workspace'local f=false local g=true local h=false local i=150
 local j={'Head','UpperTorso','LowerTorso'}local k=os local l=k.clock local m=
 task local n=m.cancel local o=m.defer local p=m.delay local q=m.spawn local r=
 math local s=r.abs local t=r.atan2 local u=r.cos local v=r.clamp local w=r.max
